@@ -15,3 +15,8 @@ Category: Service Provider
 2. Used pandas python dataframe modules to clean and transform the data scikit-learn python machine-learning module to analyze and visualize the data.
 3. This model predicts the price of the used bike based on brand, usage, and area of selling.
 4. Provides a baseline for buyers and sellers in the second-hand vehicle market.
+
+
+## LinkedIn
+
+https://www.linkedin.com/in/farees-ahmed-shaikh/details/experience/
